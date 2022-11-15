@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1668150830 source:/home/manuel/Programmer/Learning/c++/c++ComoProgramar5ed/cap06/exemplo001-GradeBook/main.cpp
+	<iostream>
+	"GradeBook.h"
+
+1668149906 /home/manuel/Programmer/Learning/c++/c++ComoProgramar5ed/cap06/exemplo001-GradeBook/include/GradeBook.h
+	<string>
+
+1668150859 source:/home/manuel/Programmer/Learning/c++/c++ComoProgramar5ed/cap06/exemplo001-GradeBook/src/GradeBook.cpp
+	<iostream>
+	"GradeBook.h"
+
