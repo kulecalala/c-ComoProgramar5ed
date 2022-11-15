@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1659871232 source:/home/manuel/Programmer/Learning/c++/c++ComoProgramar5ed/cap04/exemlo015-Analisys/main.cpp
+	<iostream>
+	"Analysis.h"
+
+1659870015 /home/manuel/Programmer/Learning/c++/c++ComoProgramar5ed/cap04/exemlo015-Analisys/include/Analysis.h
+
+1659871063 source:/home/manuel/Programmer/Learning/c++/c++ComoProgramar5ed/cap04/exemlo015-Analisys/src/Analysis.cpp
+	<iostream>
+	"Analysis.h"
+

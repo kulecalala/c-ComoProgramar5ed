@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="exemplo001/exemplo001.cbp" />
+		<Project filename="exemplo002/exemplo002.cbp" />
+		<Project filename="exemplo003/exemplo003.cbp" />
+		<Project filename="exemplo004/exemplo004.cbp" />
+		<Project filename="exemplo005/exemplo005.cbp" />
+		<Project filename="exemplo006/exemplo006.cbp" />
+		<Project filename="exemplo007/exemplo007.cbp" />
+		<Project filename="exemplo008/exemplo008.cbp" />
+		<Project filename="exemplo009/exemplo009.cbp" />
+		<Project filename="exemplo010/exemplo010.cbp" />
+		<Project filename="exemplo011/exemplo011.cbp" />
+		<Project filename="exemplo012 - classe gradeBook Aprimorada/exemplo012 - classe gradeBook Aprimorada.cbp" />
+		<Project filename="exemplo013/exemplo013.cbp" />
+		<Project filename="exemplo014-GradeBookV0.01/exemplo014-GradeBookV0.01.cbp" />
+		<Project filename="exemplo015/exemplo015.cbp" />
+		<Project filename="exercicio001/exercicio001.cbp" />
+		<Project filename="../cap05/exercicio002/exercicio002.cbp" />
+		<Project filename="../cap05/exercicio003/exercicio003.cbp" />
+		<Project filename="../cap05/exercicio004/exercicio004.cbp" />
+		<Project filename="../cap05/exemplo005/exemplo005.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>
