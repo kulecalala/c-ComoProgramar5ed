@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1665472787 source:/home/manuel/Programmer/Learning/c++/c++ComoProgramar5ed/cap05/exemplo004-JurosCompostos/main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+

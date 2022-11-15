@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1667471355 source:/home/manuel/Programmer/ExerciciosResolvidos/programacao/TerceiraListaDeExerciciosC++/exerc5-12/main.cpp
+	<iostream>
+	<iomanip>
+

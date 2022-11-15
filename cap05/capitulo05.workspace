@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="exemplo001-while/exemplo001-while.cbp" />
+		<Project filename="exemplo001.2-while/exemplo001.2-while.cbp" />
+		<Project filename="exemplo002-lacoFor/exemplo002-lacoFor.cbp" />
+		<Project filename="exemplo002.1-lacoFor/exemplo002.1-lacoFor.cbp" />
+		<Project filename="exemplo002.2-lacoFor/exemplo002.2-lacoFor.cbp" />
+		<Project filename="exemplo002.2.1-lacoFor/exemplo002.2.1-lacoFor.cbp" />
+		<Project filename="exemplo002.2.2-lacoForDecremento/exemplo002.2.2-lacoForDecremento.cbp" />
+		<Project filename="exemplo002.2.3-lacoForIncrementoEm7/exemplo002.2.3-lacoForIncrementoEm7.cbp" />
+		<Project filename="exemplo002.2.4-lacoForDecrementoDe-2/exemplo002.2.4-lacoForDecrementoDe-2.cbp" />
+		<Project filename="exemplo002.2.5-lacoForIncrementoEm3/exemplo002.2.5-lacoForIncrementoEm3.cbp" />
+		<Project filename="exemplo002.2.6-lacoForDecrementoEm11/exemplo002.2.6-lacoForDecrementoEm11.cbp" />
+		<Project filename="exemplo003-somandoInteiros/exemplo003-somandoInteiros.cbp" />
+		<Project filename="exemplo003.1-SomantoInteirosPares/exemplo003.1-SomantoInteirosPares.cbp" />
+		<Project filename="exemplo004-JurosCompostos/exemplo004-JurosCompostos.cbp" />
+		<Project filename="exemplo005-ContarComDoWhile/exemplo005-ContarComDoWhile.cbp" />
+		<Project filename="exemplo006-GradeBook/exemplo006-GradeBook.cbp" />
+		<Project filename="exemplo006.1-ForcandoAConversao/exemplo006.1-ForcandoAConversao.cbp" />
+		<Project filename="exerc007-instrucaoBreak/exemplo007-instrucaoBreak.cbp" />
+		<Project filename="exerc008-instrucoesContinue/exemplo008-instrucoesContinue.cbp" />
+		<Project filename="exerc009-operadoresLogicos/exemplo009-operadoresLogicos.cbp" />
+		<Project filename="../../../../ExerciciosResolvidos/programacao/SegundaListaDeExerciciosC++/exercRevisao001-somarImpares/exercRevisao001-somarImpares.cbp" />
+		<Project filename="../../../../ExerciciosResolvidos/programacao/SegundaListaDeExerciciosC++/exercRevisao002-trabalhoComPrecisao/exercRevisao002-trabalhoComPrecisao.cbp" />
+		<Project filename="../../../../ExerciciosResolvidos/programacao/SegundaListaDeExerciciosC++/exercRevisao003-potenciacao/exercRevisao003-potenciacao.cbp" />
+		<Project filename="../../../../ExerciciosResolvidos/programacao/SegundaListaDeExerciciosC++/exercRevisao004-vinteCaracteres/exercRevisao004-vinteCaracteres.cbp" />
+		<Project filename="../../../../ExerciciosResolvidos/programacao/SegundaListaDeExerciciosC++/exercRevisao005-repetiroExercicioD/exercRevisao005-repetiroExercicioD.cbp" />
+		<Project filename="../../../../ExerciciosResolvidos/programacao/livroLinguagrmCexerciciosResolvidos/exerc5-15/exerc5-15.cbp" />
+		<Project filename="../../../../ExerciciosResolvidos/programacao/livroLinguagrmCexerciciosResolvidos/exerc5-16/exerc5-16.cbp" />
+		<Project filename="exerc5-6/exerc5-6.cbp" />
+		<Project filename="../../../../ExerciciosResolvidos/programacao/livroLinguagrmCexerciciosResolvidos/exerc5-17/exerc5-17.cbp" />
+		<Project filename="../../../../ExerciciosResolvidos/programacao/livroLinguagrmCexerciciosResolvidos/exerc5-18/exerc5-18.cbp" />
+		<Project filename="../../../../ExerciciosResolvidos/programacao/livroLinguagrmCexerciciosResolvidos/exerc5-19/exerc5-19.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>
